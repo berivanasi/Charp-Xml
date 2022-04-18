@@ -1,0 +1,10 @@
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\bin\Debug\WindowsFormODEVXML.exe.config
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\bin\Debug\WindowsFormODEVXML.exe
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\bin\Debug\WindowsFormODEVXML.pdb
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\obj\Debug\WindowsFormODEVXML.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\obj\Debug\WindowsFormODEVXML.Form1.resources
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\obj\Debug\WindowsFormODEVXML.Properties.Resources.resources
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\obj\Debug\WindowsFormODEVXML.csproj.GenerateResource.cache
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\obj\Debug\WindowsFormODEVXML.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\obj\Debug\WindowsFormODEVXML.exe
+C:\Users\90553\source\repos\Interface,Abstrac_proje\WindowsFormODEVXML\obj\Debug\WindowsFormODEVXML.pdb
